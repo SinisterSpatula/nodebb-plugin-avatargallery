@@ -4,7 +4,7 @@ A NodeBB plugin to display a gallery of avatars that users can select from and w
 
 ## Installation
 
-Really simple, just install the plugin with `npm install nodebb-plugin-avatar-gallery` or via your forum's admin control panel.
+Really simple, just install the plugin with `npm install nodebb-plugin-avatar-gallery` or via your forum's admin control panel. Then upload some avatars using the admin control panel. You can specify the access level for each avatar in the admin panel, so you can have avatars that are reserved for administrator or moderator use only.
 
 ## Configuration
 
