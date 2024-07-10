@@ -1,5 +1,7 @@
 # Avatar Gallery Plugin for NodeBB
 
+[https://community.nodebb.org/](https://community.nodebb.org/post/100296)
+
 A NodeBB plugin to display a gallery of avatars that users can select from and which admins can manage.
 
 ## Installation
