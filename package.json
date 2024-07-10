@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-avatargallery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A NodeBB plugin to display a gallery of avatars that users can select from and which admins can manage.",
   "main": "library.js",
   "repository": {
