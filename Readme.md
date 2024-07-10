@@ -12,6 +12,6 @@ Currently avatars are uploaded to /uploads/avatars/ and are given a unique id. I
 
 ## Screenshots
 
-![Avatar Gallery](https://raw.githubusercontent.com/sinisterspatula/nodebb-plugin-avatar-gallery/master/screenshots/gallery.png)
+![Avatar Gallery](https://github.com/SinisterSpatula/nodebb-plugin-avatargallery/blob/main/gallery.png)
 
-![Avatar Gallery Admin](https://raw.githubusercontent.com/sinisterspatula/nodebb-plugin-avatar-gallery/master/screenshots/gallery2.png)
+![Avatar Gallery Admin](https://github.com/SinisterSpatula/nodebb-plugin-avatargallery/blob/main/gallery2.png)
