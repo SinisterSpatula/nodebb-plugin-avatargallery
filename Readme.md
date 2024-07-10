@@ -12,6 +12,10 @@ Currently avatars are uploaded to /uploads/avatars/ and are given a unique id. I
 
 ## Screenshots
 
+### User facing change picture
+
 ![Avatar Gallery](https://github.com/SinisterSpatula/nodebb-plugin-avatargallery/blob/main/gallery.png)
+
+### Admin Control Panel
 
 ![Avatar Gallery Admin](https://github.com/SinisterSpatula/nodebb-plugin-avatargallery/blob/main/gallery2.png)
