@@ -21,3 +21,14 @@ Currently avatars are uploaded to /uploads/avatars/ and are given a unique id. I
 ### Admin Control Panel
 
 ![Avatar Gallery Admin](https://github.com/SinisterSpatula/nodebb-plugin-avatargallery/blob/main/gallery2.png)
+
+### Notes
+
+Users will only see the avatars for which they have the access level. Users can change their own avatars only. Admins and can change other user avatars. When enabling the plugin, avatar image uploads will be disabled, users must select an avatar from the gallery only.
+
+Let me know what you think!
+
+### Updates
+
+v1.0.0 - initial release
+v1.0.1 - fixed issue where the modal would not open on some account pages.
