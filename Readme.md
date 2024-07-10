@@ -30,5 +30,5 @@ Let me know what you think!
 
 ### Updates
 
-v1.0.0 - initial release
-v1.0.1 - fixed issue where the modal would not open on some account pages.
+- v1.0.0 - initial release
+- v1.0.1 - fixed issue where the modal would not open on some account pages.
